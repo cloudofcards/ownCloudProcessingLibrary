@@ -25,7 +25,7 @@
  *  
  *  The development of this library was performed in the frame of the
  *  "IICloud(s) – Inhabiting and Interfacing the Cloud(s)" project
- *  http://www.iiclouds.org
+ *  http://www.iiclouds.org - http://www.cloudofcards.org
  *  
  *  -----
  *  
@@ -34,16 +34,15 @@
  *  
  *  -----
  *  
- *  This program is free software: you can redistribute it and/or modify
- *  it under the terms of the GNU General Public License as published by
- *  the Free Software Foundation, either version 3 of the License, or
- *  (at your option) any later version.
- *  
- *  This program is distributed in the hope that it will be useful,
- *  but WITHOUT ANY WARRANTY; without even the implied warranty of
- *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- *  GNU General Public License for more details.
- *  
- *  You should have received a copy of the GNU General Public License
- *  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ *  The 5 Folders Cloud software and associated documentation files (the "Software") is licensed under 
+ *  a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC 2017)
+ *  (https://creativecommons.org/licenses/by-nc-sa/4.0/). 
+ *  The Software shall therefore not be sold and follow the restrictions implied by the chosen Creative 
+ *  Commons License. 
+ *  In addition to these conditions, the Software is provided "as is", without warranty of any kind, 
+ *  express or implied, including but not limited to the warranties of usability, fitness for a particular 
+ *  purpose and non-infringement. In no event shall the authors or copyright holders be liable for any 
+ *  claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, 
+ *  out of or in connection with the software or the use or other dealings in the Software.
+ *  By using the Software, you accept these conditions.
  */
